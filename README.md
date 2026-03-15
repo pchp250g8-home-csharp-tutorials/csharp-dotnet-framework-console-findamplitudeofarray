@@ -13,7 +13,7 @@ The program does the following:
       The element indices are equal to 0, and the values ​​are equal to the value of the first (zeroth) element of the array.
    5. The second loop with the parameter is executed:
       5.1. The initial value of the parameter is set to 1, and the final value is set to the number of array elements - 1.
-           The search for elements will begin with   element No. 2 (1, array numbering starts from 0).
+           The search for elements will begin with element No. 2 (1, array numbering starts from 0).
       5.2. A series of loops are executed. The search for the maximum and minimum array elements and their indices is performed.
            5.2.1 If the next element is larger than the previously found one, then its number (index) and value (maximum) are remembered.
            5.2.2 If the next element is smaller than the previously found one, then its number (index) and value (minimum) are remembered.
